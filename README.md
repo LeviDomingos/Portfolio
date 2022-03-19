@@ -6,10 +6,17 @@ Visitors will be able to find personal information about me. They will also noti
 
 ## Wireframe
 To draw my website I used “Balsamiq.” I want to show how responsive the website can be when tested on different devices. Those are the  links to the wireframes:
+<<<<<<< HEAD
 1.![alt text](../static/wireframes/desktopaboutpage.png)
 2.![alt text](../static/wireframes/desktopcontactpage.png)
 3.![alt text](../static/wireframes/desktoppage.png)
 4.![alt text](../static/wireframes/mobilehomepage.png)
+=======
+1.![alt text](./static/wireframes/desktopaboutpage.png)
+2.![alt text](./static/wireframes/desktopcontactpage.png)
+3.![alt text](./static/wireframes/desktoppage.png)
+4.![alt text](./static/wireframes/mobilehomepage.png)
+>>>>>>> ed2515f5ff487d041887ccb858f873252bfe9f88
 
 ## Features
 The menu is the same throughout the pages; home, contact, and about me. 
