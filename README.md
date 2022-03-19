@@ -6,10 +6,10 @@ Visitors will be able to find personal information about me. They will also noti
 
 ## Wireframe
 To draw my website I used “Balsamiq.” I want to show how responsive the website can be when tested on different devices. Those are the  links to the wireframes:
-1.![alt text](static/wireframes/desktopaboutpage.png)
-2.![alt text](static/wireframes/desktopcontactpage.png)
-3.![alt text](static/wireframes/desktoppage.png)
-4.![alt text](static/wireframes/mobilehomepage.png)
+1.![alt text](../static/wireframes/desktopaboutpage.png)
+2.![alt text](../static/wireframes/desktopcontactpage.png)
+3.![alt text](../static/wireframes/desktoppage.png)
+4.![alt text](../static/wireframes/mobilehomepage.png)
 
 ## Features
 The menu is the same throughout the pages; home, contact, and about me. 
@@ -43,19 +43,26 @@ I inserted fontawesome elemnts in about me page only.
 
 **Github** -  I have used it to apply the changes on my project and display the website too.
 
+**Testing**
+
+My wife and I were the only one testing the site. I made the necessary changes sugested by her. The Jumbo Bar was her idea.
+
 ## Responsive Design 
-To find out if my website was fully mobile friendly I used Google Chrome's Development Tools. 
+To find out if my website was fully mobile friendly I used Google Chrome's Development Tools, Safari, Telephone devices to test how it looks in different 
+devices and browsers. 
 
 HTML and CSS Validation 
-I used the below websites to validate the code in my website
-- CSS Validation Service
-- CSS Validation Service
+I used the below websites to validate the code in my website:
+
+- [W3C HTML Validator](https://validator.w3.org/#validate_by_input) tool to validate my CSS code.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) tool to validate my HTML code.
+
 
 # Strugles to overcome
 
 > To make a responsive design was a big “ask.” 
 *I never realised* that margin and padding are taken into account on measurements. 
-*Some divs were* totally off the pages. 
+*Some divs were* totally off the page. 
 *The height of the page* was another hurdle to overcome. 
 
 
