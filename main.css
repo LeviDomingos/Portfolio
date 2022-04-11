@@ -46,6 +46,11 @@ h1{
     width: 60px;
     border-radius: 50%;
 }
+
+a .active{
+    font-size:25px;
+    color:black; 
+}
 /*used bootstrap for navegation barr f the page */
 a:hover{
     background-color:orange;
