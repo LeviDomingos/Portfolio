@@ -1,5 +1,5 @@
 html, body{
-    padding: 0;
+    padding: 0 !important;
     margin: auto;
     min-height: 100vh;
     display: flex;
@@ -46,11 +46,15 @@ h1{
     width: 60px;
     border-radius: 50%;
 }
+
+a .active{
+    font-size:25px;
+    color:black; 
+}
 /*used bootstrap for navegation barr f the page */
 a:hover{
     background-color:orange;
 }
-
 /* page wrapper */
 .container{ /* main page wraper */
     /*display: flex;
@@ -100,22 +104,12 @@ span{
     margin-top: 100px;
     height: 200px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; /*taken from CSS-Trick Site*/
-<<<<<<< HEAD
-    background-image: url(".../static/images/pictureOne.jpg");
-=======
-    background-image: url("./static/images/pictureOne.jpg");
->>>>>>> ed2515f5ff487d041887ccb858f873252bfe9f88
-<<<<<<< HEAD
-=======
-=======
->>>>>>> Stashed changes
->>>>>>> f4517daa189baccb6fdefc7a0226a6a61ffa99cd
-
+    background-image: url("../static/assets/images/pictureOne.jpg");
     /* about me page styling ends here */
 }
 
 .empty{
-    font-size: 50px;
+    font-size: 18px;
     color: orange;
 }
 .empty {
