@@ -67,6 +67,21 @@ I used the below websites to validate the code in my website:
 *Some divs were* totally off the page. 
 *The height of the page* was another hurdle to overcome. 
 
+# Deployment
+
+The hosting platform used for my project is GitHub Pages. To deploy my project to GitHub pages, I implemented the following steps:
+
+Downlaod gitHub Desktop and Visual Studio Code on my Laptop.
+
+Lunched or started Git Desktop.
+
+Connetcted my Visual Studio Code into my Github online and from that moment on I could syncronise both GitHub.
+
+Created a new repository in GitHub called 'Portfolio'.
+
+Imported the the new repository into V.S. on desktop.
+
+Any changes made on my project loaded on my Laptop I would commit or push to my Github online.
 
 # Mentor
-My mentor directed me to the right places when needed. 
+My mentor directed me to the right places when needed. I value very much is help.
