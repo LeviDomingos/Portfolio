@@ -62,6 +62,8 @@ I used the below websites to validate the code in my website:
 
 # Strugles to overcome
 
+> The toggle nav or barr was taking to much space on mobile device. My mentos asked me to try to place the toggle bar 
+at the top or side by side with header, but I could not do it at all. I think my knowledge is very limited for "such big" ask. But i will try to understand and implement it latter on. 
 > To make a responsive design was a big “ask.” 
 *I never realised* that margin and padding are taken into account on measurements. 
 *Some divs were* totally off the page. 
